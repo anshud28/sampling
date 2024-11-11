@@ -16,40 +16,37 @@ Select one of the scenarios below and design a survey to meet the need(s) outlin
 
 # Your Changes
 
-The number of your chosen topic: `#`
+Survey Topic: The number of your chosen topic: 1
 
-Describe the purpose of your survey:
-```
-write your answer here...
-```
+Survey Purpose:  
+This survey aims to explore the reasons entry- and lower-level employees are leaving the organization, as well as to pinpoint specific areas for improvement to enhance job satisfaction and reduce employee turnover.
 
-Describe your target population, sampling frame, sampling units, and observational units:
-```
-write your answer here...
-```
+Target Population, Sampling Frame, Sampling Units, and Observational Units:  
+- Target Population: Current and recently departed entry- and lower-level employees.
+- Sampling Frame: A roster of current entry- and lower-level employees, along with those who exited the company within the past six months.
+- Sampling Units: Individual entry- and lower-level employees.
+- Sampling Strategy: A stratified random sample will be used to gather input from employees across departments experiencing high turnover.
+- Observational Units: Individual entry- and lower-level employees who are either currently employed or recently left.
 
-Your 5-10 question survey:
-```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
-```
+Survey Questions (5–10):  
+1. On a scale from 1 to 5, how satisfied were you with your role before considering leaving?
+2. What factors contributed to your decision to leave or consider leaving? (Select all that apply: Pay, Career growth, Work-life balance, Management relationship, Company culture, Job satisfaction, Other)
+3. How supported did you feel by your manager in achieving your career goals? (Options: Very supported, Somewhat supported, Neutral, Somewhat unsupported, Very unsupported)
+4. How effective was the company’s communication and transparency on key issues? (Options: Very effective, Somewhat effective, Neutral, Somewhat ineffective, Very ineffective)
+5. Did you perceive a clear career advancement path within the company? (Options: Yes, Somewhat, No)
+6. How frequently did you experience stress or feel overloaded by your workload? (Options: Always, Often, Sometimes, Rarely, Never)
+7. What changes do you believe the company could make to increase job satisfaction and lower turnover?
+8. Would you recommend the company as a good place to work? (Options: Yes, No, Not sure)
+9. On a scale from 1 to 5, how satisfied were you with the company’s benefits and compensation?
 
 ## Rubric
 
--	All required components are present and complete **Complete / Incomplete**
--	Choice of sampling strategy is justified and related to survey purpose **Complete / Incomplete**
+-	All required components are present and complete Complete / Incomplete
+-	Choice of sampling strategy is justified and related to survey purpose Complete / Incomplete
 
 ## Submission Information
 
-🚨 **Please review our [Assignment Submission Guide](https://github.com/UofT-DSI/onboarding/blob/main/onboarding_documents/submissions.md)** 🚨 for detailed instructions on how to format, branch, and submit your work. Following these guidelines is crucial for your submissions to be evaluated correctly.
+🚨 Please review our [Assignment Submission Guide](https://github.com/UofT-DSI/onboarding/blob/main/onboarding_documents/submissions.md) 🚨 for detailed instructions on how to format, branch, and submit your work. Following these guidelines is crucial for your submissions to be evaluated correctly.
 
 ### Submission Parameters:
 * Submission Due Date: `HH:MM AM/PM - DD/MM/YYYY`
